@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Achitapan.
-- 👀 I’m interested in website/game developing & AI.
-- 🌱 I’m currently learning basic programming language.
+- 👀 I’m interested in website/game developing, AI and embedded system.
+- 🌱 I’m currently learning about Image Processing, Computer Network, and Cybersecurity.
 - ⚡ Fun fact: I love napping/sleeping and energy-preserving hobbies.
 
 <!---
